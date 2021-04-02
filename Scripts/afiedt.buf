@@ -1,0 +1,15 @@
+select p.propietario_id, (p.nombre || ' ' || p.ap_paterno || ' ' ||
+  p.ap_materno) as nombre_completo, p.RFC, v.vehiculo_id, v.num_serie, v.anio,
+  s.clave as estatus, h.fecha_estatus
+from XX_PROPIETARIO p
+join XX_VEHICULO v
+on p.propietario_id = v.propietario_id
+join XX_HISTORICO_ESTATUS_VEHICULO h
+on v.vehiculo_id = h.vehiculo_id
+join XX_ESTATUS_VEHICULO s
+on h.estatus_vehiculo_id = s.estatus_vehiculo_id
+where v.anio >= 2015
+and v.es_particular = 1
+and v.es_carga = 0
+and v.es_publico = 0
+/

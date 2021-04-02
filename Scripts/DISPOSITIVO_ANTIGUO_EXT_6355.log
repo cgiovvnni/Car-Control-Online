@@ -1,0 +1,80 @@
+
+
+ LOG file opened at 06/25/20 12:49:57
+
+Total Number of Files=1
+
+Data File: dispositivo_antiguo.txt
+
+Log File: DISPOSITIVO_ANTIGUO_EXT_6355.log
+
+
+
+ LOG file opened at 06/25/20 12:49:57
+
+Bad File: DISPOSITIVO_ANTIGUO_EXT_6355.bad
+
+Field Definitions for table DISPOSITIVO_ANTIGUO_EXT
+  Record format DELIMITED BY NEWLINE
+  Data in file has same endianness as the platform
+  Rows with all null fields are accepted
+
+  Fields in Data Source: 
+
+    DISPOSITIVO_ID                  CHAR (255)
+      Terminated by ","
+      Trim whitespace same as SQL Loader
+    NUM_SERIE                       CHAR (255)
+      Terminated by ","
+      Trim whitespace same as SQL Loader
+    FECHA_SALIDA                    CHAR (40)
+      Date datatype DATE, date mask dd/mm/yyyy
+      Terminated by ","
+      Trim whitespace same as SQL Loader
+
+Date Cache Statistics for table DISPOSITIVO_ANTIGUO_EXT
+  Max Size:      1000
+  Entries :        30
+  Hits    :         0
+  Misses  :         0
+
+
+
+ LOG file opened at 06/25/20 12:49:57
+
+Total Number of Files=1
+
+Data File: dispositivo_antiguo.txt
+
+Log File: DISPOSITIVO_ANTIGUO_EXT_6355.log
+
+
+
+ LOG file opened at 06/25/20 12:49:57
+
+Bad File: DISPOSITIVO_ANTIGUO_EXT_6355.bad
+
+Field Definitions for table DISPOSITIVO_ANTIGUO_EXT
+  Record format DELIMITED BY NEWLINE
+  Data in file has same endianness as the platform
+  Rows with all null fields are accepted
+
+  Fields in Data Source: 
+
+    DISPOSITIVO_ID                  CHAR (255)
+      Terminated by ","
+      Trim whitespace same as SQL Loader
+    NUM_SERIE                       CHAR (255)
+      Terminated by ","
+      Trim whitespace same as SQL Loader
+    FECHA_SALIDA                    CHAR (40)
+      Date datatype DATE, date mask dd/mm/yyyy
+      Terminated by ","
+      Trim whitespace same as SQL Loader
+
+Date Cache Statistics for table DISPOSITIVO_ANTIGUO_EXT
+  Max Size:      1000
+  Entries :        30
+  Hits    :         0
+  Misses  :         0
+
