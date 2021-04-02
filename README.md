@@ -1,7 +1,7 @@
 # Car-Control-Online
 Proyecto Final Base de Datos
 
-##Caso de Estudio
+## Caso de Estudio
 
 Car Control Online es una empresa de la iniciativa privada que esta proponiendo un nuevo modelo al gobierno del país para modernizar y mejorar el control vehicular del país. La base de datos que propone para realizar este proyecto define las siguientes reglas de negocio.  
 
@@ -31,4 +31,4 @@ Con la finalidad de promover el uso adecuado del automóvil, un propietario pued
 
 Finalmente,  algunos  automóviles  pueden  ser  usados  como  autos  de  carga  y  particulares  a  la  vez.    Por  ejemplo,  una  camioneta  adaptada con  un compartimiento trasero.  Solo para esta combinación, el sistema permite que el mismo automóvil tenga ambos roles.  
 
-
+## Diseños
