@@ -32,3 +32,11 @@ Con la finalidad de promover el uso adecuado del automóvil, un propietario pued
 Finalmente,  algunos  automóviles  pueden  ser  usados  como  autos  de  carga  y  particulares  a  la  vez.    Por  ejemplo,  una  camioneta  adaptada con  un compartimiento trasero.  Solo para esta combinación, el sistema permite que el mismo automóvil tenga ambos roles.  
 
 ## Diseños
+
+### Diseño Conceptual 
+![](Disenios/Disenio-conceptual.jpeg)
+
+### Diseño Entidad-Relación
+![](Disenios/Disenio-fisico-crows-foot.jpg)
+
+
